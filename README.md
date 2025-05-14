@@ -12,3 +12,5 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=SashaKaban_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=SashaKaban_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=SashaKaban_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=SashaKaban_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SashaKaban_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=SashaKaban_python-project-49)
+
+<a href="https://asciinema.org/a/I5f4d9Ch5Zgl6NFPBN2JX3apm" target="_blank"><img src="https://asciinema.org/a/I5f4d9Ch5Zgl6NFPBN2JX3apm.svg" /></a>
