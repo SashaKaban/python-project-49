@@ -14,3 +14,4 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SashaKaban_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=SashaKaban_python-project-49)
 
 <a href="https://asciinema.org/a/I5f4d9Ch5Zgl6NFPBN2JX3apm" target="_blank"><img src="https://asciinema.org/a/I5f4d9Ch5Zgl6NFPBN2JX3apm.svg" /></a>
+<a href="https://asciinema.org/a/3BZuVOGe3vHNAYWDMRb9xwsOf" target="_blank"><img src="https://asciinema.org/a/3BZuVOGe3vHNAYWDMRb9xwsOf.svg" /></a>

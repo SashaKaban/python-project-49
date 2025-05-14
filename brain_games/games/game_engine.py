@@ -1,0 +1,9 @@
+import random, prompt
+
+
+def engine(func):
+    print('Welcome to the Brain Games!')
+    name = prompt.string('May I have your name? ')
+    print(f"Hello, {name}!")
+    func(name)
+        

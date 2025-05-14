@@ -1,12 +1,7 @@
-import random
-
-import prompt
+import random, prompt
 
 
-def even_func():
-    print('Welcome to the Brain Games!')
-    name = prompt.string('May I have your name? ')
-    print(f"Hello, {name}!")
+def even_func(name):
     print('Answer "yes" if the number is even, otherwise answer "no".')
     correct_count = 0
     while correct_count != 3:
@@ -22,5 +17,5 @@ def even_func():
             print('Correct!')
         else:
             print(f"Let's try again, {name}!")
-            return
+            return 
     print(f"Congratulations, {name}!")
