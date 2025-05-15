@@ -14,4 +14,3 @@ def even_func():
     if answer == result:
         return True
     return False
-   

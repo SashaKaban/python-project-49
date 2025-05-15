@@ -1,8 +1,7 @@
 import math
+import random
 
 import prompt
-
-import random
 
 
 def prime_func():

@@ -1,7 +1,5 @@
+
 import prompt
-
-import random
-
 
 
 def engine(func):
