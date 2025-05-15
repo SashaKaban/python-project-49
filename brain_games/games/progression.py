@@ -19,5 +19,5 @@ def progr_func():
     answer = prompt.string("Your answer: ")
     if result == int(answer):
         return True
-    print(f"{answer} is wrong answer ;(. Correct answer was {result}.")
+    print(f"'{answer}' is wrong answer ;(. Correct answer was '{result}'.")
     return False

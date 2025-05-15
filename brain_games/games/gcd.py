@@ -16,5 +16,5 @@ def gcd_func():
     result = a + b
     if result == int(answer):
         return True
-    print(f"{answer} is wrong answer ;(. Correct answer was {result}.")
+    print(f"'{answer}' is wrong answer ;(. Correct answer was '{result}'.")
     return False
