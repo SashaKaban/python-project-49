@@ -1,4 +1,6 @@
-import random, prompt
+import random
+
+import prompt
 
 
 def even_func(name):

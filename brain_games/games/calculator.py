@@ -1,4 +1,6 @@
-import random, prompt
+import random
+
+import prompt
 
 
 def calc_func(name):

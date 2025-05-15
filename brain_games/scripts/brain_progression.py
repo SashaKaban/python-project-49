@@ -1,9 +1,9 @@
-from brain_games.games.calculator import calc_func
 from brain_games.games.game_engine import engine
+from brain_games.games.progression import progr_func
 
 
 def main():
-    engine(calc_func)
+    engine(progr_func)
 
 
 if __name__ == "__main__":

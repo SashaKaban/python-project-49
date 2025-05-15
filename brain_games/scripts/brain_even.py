@@ -1,6 +1,5 @@
-from brain_games.games.game_engine import engine
-
 from brain_games.games.even import even_func
+from brain_games.games.game_engine import engine
 
 
 def main():

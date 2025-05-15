@@ -1,4 +1,4 @@
-import random, prompt
+import prompt
 
 
 def engine(func):
